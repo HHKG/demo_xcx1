@@ -1,0 +1,4 @@
+<!--pages/btn/btn.wxml-->
+<button hover-class='none' class="btn1" size='mini' plain='true'>第一个按钮</button>
+<button hover-class='none' size='' type='primary' >第二个按钮</button>
+<button hover-class='none' type='warn'>第三个按钮</button>

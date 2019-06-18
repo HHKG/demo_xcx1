@@ -1,0 +1,11 @@
+/* pages/richText/richText.wxss */
+rich-text div{
+  display: flex;
+  justify-content: space-around;
+}
+rich-text div span{
+  background: red;
+  color:#fff;
+  font-size: 28rpx;
+  padding:10rpx;
+}

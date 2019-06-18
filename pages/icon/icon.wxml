@@ -1,0 +1,2 @@
+<!--pages/icon/icon.wxml-->
+<icon type='success' size='40' color="blue"></icon>

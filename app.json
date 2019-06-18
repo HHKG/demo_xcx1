@@ -1,5 +1,17 @@
 {
   "pages": [
+    "pages/checkBox/checkBox",
+    "pages/btn/btn",
+    "pages/richText/richText",
+    "pages/progress/progress",
+    "pages/icon/icon",
+    "pages/coverImg/coverImg",
+    "pages/swiper/swiper",
+    "pages/scrollView/scrollView",
+    "pages/coverView/coverView",
+    "pages/movable/movable",
+    "pages/openMap/openMap",
+    "pages/makeCall/makeCall",
     "pages/index/index",
     "pages/logs/logs"
   ],

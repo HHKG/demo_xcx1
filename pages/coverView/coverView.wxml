@@ -1,0 +1,4 @@
+<!--pages/coverView/coverView.wxml-->
+<map>
+<cover-view class="coverView">123</cover-view>
+</map>

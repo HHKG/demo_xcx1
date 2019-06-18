@@ -1,0 +1,6 @@
+<!--pages/movable/movable.wxml-->
+<movable-area class="area">
+<movable-view class="cnt" inertia="true" direction="all" out-of-bounds="true">
+
+</movable-view>
+</movable-area>

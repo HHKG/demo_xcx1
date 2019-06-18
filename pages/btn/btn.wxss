@@ -1,0 +1,7 @@
+/* pages/btn/btn.wxss */
+button{
+  border-radius: 100rpx;
+}
+.btn1{
+  border:1rpx solid red!important;
+}

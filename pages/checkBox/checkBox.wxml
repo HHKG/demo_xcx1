@@ -1,0 +1,7 @@
+<!--pages/checkBox/checkBox.wxml-->
+<checkbox-group bindchange="change">
+  <checkbox  value='1' color='#fff'>还有什么比能力更重要的呢</checkbox>
+  <checkbox value='2' color='#fff'>还有什么比钱更重要的呢</checkbox>
+  <checkbox value='3' color='#fff'>还有什么比穷更惨的呢</checkbox>
+  <checkbox value='4' color='#fff'>还有什么比庸人更惨的呢</checkbox>
+</checkbox-group>

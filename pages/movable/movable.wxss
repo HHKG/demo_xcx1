@@ -1,0 +1,11 @@
+/* pages/movable/movable.wxss */
+.area{
+  width:750rpx;
+  height:600rpx;
+  background-color:red;
+}
+.area .cnt{
+  width:100rpx;
+  height:100rpx;
+  background-color:black;
+}

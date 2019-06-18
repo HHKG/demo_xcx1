@@ -1,0 +1,5 @@
+<!--pages/makeCall/makeCall.wxml-->
+<view class="makeCall">
+<text>私人热线：{{phoneNumber}}</text>
+<text class="callBtn" bindtap='makeCall'>一键拨打</text>
+</view>

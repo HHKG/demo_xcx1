@@ -1,0 +1,6 @@
+/* pages/openMap/openMap.wxss */
+.map{
+  margin: 30rpx auto;
+  width: 690rpx;
+  height: 690rpx;
+}

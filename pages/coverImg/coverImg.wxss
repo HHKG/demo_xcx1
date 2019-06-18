@@ -1,0 +1,10 @@
+/* pages/coverImg/coverImg.wxss */
+button{
+  width:690rpx;
+  height:98rpx;
+  display: flex;
+  justify-content: center;
+}
+button .coverImg{
+  width:100rpx;
+}

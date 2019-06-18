@@ -1,0 +1,18 @@
+/* pages/scrollView/scrollView.wxss */
+.scrollView{
+  width: 690rpx;
+  height: 600rpx;
+}
+.scrollView view{
+  width:690rpx;
+  height:600rpx;
+}
+.red{
+  background-color:red;
+} 
+.blue{
+ background-color:blue;
+}
+.yellow{
+background-color:yellow;
+}

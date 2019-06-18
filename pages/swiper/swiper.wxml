@@ -1,0 +1,13 @@
+<!--pages/swiper/swiper.wxml-->
+<!-- swiper组件只可以放置swiper-item组件，否则会出现未定义的状况 -->
+<swiper duration='1000' indicator-dots='true' loop="true" indicator-color='#ccc' indicator-active-color='#fff' autoplay="true" circular='true'>
+  <swiper-item>
+    <image src='/images/ma.png'></image>
+  </swiper-item>
+  <swiper-item>
+    <image src='/images/gou.jpg'></image>
+  </swiper-item>
+  <swiper-item>
+    <image src='/images/shan.jpg'></image>
+  </swiper-item>
+</swiper>

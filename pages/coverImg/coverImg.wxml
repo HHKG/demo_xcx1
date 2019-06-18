@@ -1,0 +1,5 @@
+<!--pages/coverImg/coverImg.wxml-->
+<button hover-class='none'>
+<cover-image class="coverImg" src='/images/zhuanfa.png'></cover-image>
+</button>
+

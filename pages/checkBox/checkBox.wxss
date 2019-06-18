@@ -1,0 +1,10 @@
+/* pages/checkBox/checkBox.wxss */
+/*修改checkbox的默认样式用.wx-checkbox-input;修改radio的默认样式用.wx-radio-input*/
+checkbox .wx-checkbox-input {
+  width: 50rpx;
+  height: 50rpx;
+  border-radius: 51rpx;
+}
+checkbox .wx-checkbox-input.wx-checkbox-input-checked {
+  background: #FF525C;
+}

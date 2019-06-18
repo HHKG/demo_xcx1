@@ -1,0 +1,10 @@
+/* pages/coverView/coverView.wxss */
+map{
+  margin: 60rpx auto;
+}
+map .coverView{
+  width:80rpx;
+  color: #fff;
+  padding:10rpx;
+  background-color:rgba(0, 0, 0, 0.6);
+}

@@ -1,0 +1,9 @@
+<!--pages/scrollView/scrollView.wxml-->
+<scroll-view class="scrollView" scroll-y="true" upper-threshold="100" bindscrolltoupper="upper" bindscrolltolower="lower" lower-threshold="100" scroll-into-view="yellow" scroll-with-animation="true">
+  <view class="red">
+  </view>
+  <view class="blue">
+  </view>
+  <view id="yellow" class="yellow">
+  </view>
+</scroll-view>

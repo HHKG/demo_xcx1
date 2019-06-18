@@ -1,0 +1,18 @@
+/* pages/makeCall/makeCall.wxss */
+.makeCall{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.makeCall text{
+  font-size: 40rpx;
+  color:#333;
+  line-height: 40rpx;
+}
+.makeCall .callBtn{
+  margin-top:30rpx;
+  border:1rpx solid #FF4600;
+  color:#FF4600;
+  padding:10rpx 30rpx;
+  border-radius: 41rpx;
+}
