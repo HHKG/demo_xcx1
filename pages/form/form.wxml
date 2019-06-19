@@ -1,0 +1,18 @@
+<!--pages/form/form.wxml-->
+<form bindsubmit='subm' bindreset='reset'>
+  <input type='text' name="inputTxt" value='' placeholder='请输入你想要提交的内容' />
+  <input id="number" type='number' name="inputNum" value='' placeholder='请输入你想要提交的内容' />
+  <label id="number">我是第二个输入框</label>
+  <radio-group name="radio">
+  <radio value="可以进步的更快">可以进步的更快</radio>
+  <radio value="可以进步的飞快">可以进步的飞快</radio>
+  <radio value="可以进步的突飞猛进">可以进步的突飞猛进</radio>
+  </radio-group>
+  <switch type='switch' checked='true' name="switch"></switch>
+  <!-- 多行输入框 -->
+  <textarea name="textarea" value='' placeholder='多行输入框'></textarea>
+  <!-- 步伐为1 -->
+  <slider name="slider" min='50' max="200" value="" step='1' show-value='true'></slider>
+  <button type='primary' form-type='submit'>提交</button>
+  <button type='warn' form-type='reset'>重置</button>
+</form>

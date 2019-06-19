@@ -1,0 +1,2 @@
+<!--pages/navigator/navigator.wxml-->
+<navigator url="/pages/form/form?title=表单">跳转到表单页面</navigator>

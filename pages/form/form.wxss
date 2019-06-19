@@ -1,0 +1,7 @@
+/* pages/form/form.wxss */
+radio .wx-radio-input{
+ background-color:red;
+}
+radio .wx-radio-input.wx-radio-input-checked{
+  background-color: #83CBE6!important; 
+}
